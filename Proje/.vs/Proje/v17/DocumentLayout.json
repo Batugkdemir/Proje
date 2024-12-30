@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Batuone\\source\\repos\\Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|c:\\users\\batuone\\source\\repos\\proje\\derssecim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|solutionrelative:derssecim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|c:\\users\\batuone\\source\\repos\\proje\\derssecim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|solutionrelative:derssecim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|C:\\Users\\Batuone\\source\\repos\\Proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|c:\\users\\batuone\\source\\repos\\proje\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|c:\\users\\batuone\\source\\repos\\proje\\ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|solutionrelative:ogrenci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|c:\\users\\batuone\\source\\repos\\proje\\migrations\\20241229233239_\u0130nitdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|solutionrelative:migrations\\20241229233239_\u0130nitdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|c:\\users\\batuone\\source\\repos\\proje\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EF67A1-1C5C-4637-9AEC-22D5645031C8}|Proje.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DersSecim.cs",
+              "DocumentMoniker": "C:\\Users\\Batuone\\source\\repos\\Proje\\DersSecim.cs",
+              "RelativeDocumentMoniker": "DersSecim.cs",
+              "ToolTip": "C:\\Users\\Batuone\\source\\repos\\Proje\\DersSecim.cs",
+              "RelativeToolTip": "DersSecim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:15:04.841Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DersSecim.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Batuone\\source\\repos\\Proje\\DersSecim.cs",
+              "RelativeDocumentMoniker": "DersSecim.cs",
+              "ToolTip": "C:\\Users\\Batuone\\source\\repos\\Proje\\DersSecim.cs [Design]",
+              "RelativeToolTip": "DersSecim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:04:16.642Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241229233239_\u0130nitDB.cs",
+              "DocumentMoniker": "C:\\Users\\Batuone\\source\\repos\\Proje\\Migrations\\20241229233239_\u0130nitDB.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241229233239_\u0130nitDB.cs",
+              "ToolTip": "C:\\Users\\Batuone\\source\\repos\\Proje\\Migrations\\20241229233239_\u0130nitDB.cs",
+              "RelativeToolTip": "Migrations\\20241229233239_\u0130nitDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:32:39.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Batuone\\source\\repos\\Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Batuone\\source\\repos\\Proje\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAkwHAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:31:49.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Batuone\\source\\repos\\Proje\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Batuone\\source\\repos\\Proje\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:31:42.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Batuone\\source\\repos\\Proje\\DBContext.cs",
+              "RelativeDocumentMoniker": "DBContext.cs",
+              "ToolTip": "C:\\Users\\Batuone\\source\\repos\\Proje\\DBContext.cs",
+              "RelativeToolTip": "DBContext.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAswD8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:26:13.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ogrenci.cs",
+              "DocumentMoniker": "C:\\Users\\Batuone\\source\\repos\\Proje\\Ogrenci.cs",
+              "RelativeDocumentMoniker": "Ogrenci.cs",
+              "ToolTip": "C:\\Users\\Batuone\\source\\repos\\Proje\\Ogrenci.cs",
+              "RelativeToolTip": "Ogrenci.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwC8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T23:25:14.019Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
